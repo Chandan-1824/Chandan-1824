@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Chandan-1824
-- 👀 I’m interested in Web Development/Web design
-- 🌱 I’m currently learning javaScript
-- 💞️ I’m looking to collaborate on Web Development projects
-- 📫 How to reach me : My Email(chandanmistry844@gmail.com)
-- 😄 Pronouns: (He/Him)
-- ⚡ Fun fact: If you want to know fun fact about me you should contact me😉
+-👋 Hi, I’m Chandan Mistry (@Chandan-1824)
+-👀 I’m passionate about Web Development and Web Design
+-🌱 Currently enhancing my skills in Backend
+-💼 I’m open to collaborating on Web Development projects
+-📫 You can reach me at: chandanmistry844@gmail.com
+-😄 Pronouns: He/Him
+-⚡ Fun fact: Reach out to me, and I’d be happy to share something interesting!
 
 
 <!---
