@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chandan Mistry (@Chandan-1824)
-- 👀 I’m passionate about Web Development and Web Design
-- 🌱 Currently enhancing my skills in Backend
+- 👨‍💻 I’m a Computer Science and Engineering student passionate about Web Development and Web Design
+- 🌱 Currently enhancing my skills in Backend Development
 - 💼 I’m open to collaborating on Web Development projects
 - 📫 You can reach me at: chandanmistry844@gmail.com
 - 😄 Pronouns: He/Him
